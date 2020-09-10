@@ -1,0 +1,8 @@
+This app is designed with flutter and news API(newsapi.org).
+
+i didn't include complete flutter project in this repository but include core codebase files and pubspec.yaml along with main.dart.
+
+so,
+if you want to build some project using it, you just need to replace(or add) these repository files in your current flutter project and that's all.
+
+Happy coding...
